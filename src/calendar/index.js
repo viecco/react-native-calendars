@@ -406,4 +406,11 @@ class Calendar extends Component {
   }
 }
 
+Calendar.CalendarHeader = CalendarHeader;
+Calendar.Day = Day;
+Calendar.MultiDotDay = MultiDotDay;
+Calendar.MultiPeriodDay = MultiPeriodDay;
+Calendar.SingleDay = SingleDay;
+Calendar.UnitDay = UnitDay;
+
 export default Calendar;
